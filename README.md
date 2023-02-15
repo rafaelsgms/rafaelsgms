@@ -1,7 +1,10 @@
-## Olá! Eu sou o Rafael!
+## Hello everyone, My name is Rafael and I'm looking for my fist opportunity as a Software Developer!
 
-🧔🏻 Rafael Gomes, 26 anos
-👨🏻‍💻 Dev Front-End
+🧔🏻 Rafael Gomes, 26 years old
+👨🏻‍💻 Dev Full-Stack
+📚 Former FullStack Software Development student at Cubos Academy
+🧝🏻Fantasy lover
+💡I'm a communicative person who loves to work in group and develop great projects
 
 <div align="center">
   <a href="https://github.com/rafaelsgms">
