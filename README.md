@@ -3,7 +3,7 @@
 - 🧔🏻 Rafael Gomes, 26 years old
 - 🏳️‍🌈 He/Him 
 - 👨🏻‍💻 Dev Full-Stack
-- 📚 Former Full-Stack Software Development student at Cubos Academy
+- 📚 Former Full-Stack Development student at Cubos Academy
 - 🧝🏻Fantasy lover
 - 💡I'm a communicative person who loves to work in group and develop great projects
 
