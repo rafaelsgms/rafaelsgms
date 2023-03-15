@@ -1,4 +1,4 @@
-## Hello everyone, My name is Rafael and I'm looking for my fist opportunity as a Software Developer!
+## Hello everyone, My name is Rafael and I'm looking for my first opportunity as a Software Developer!
 
 - 🧔🏻 Rafael Gomes, 26 years old
 - 🏳️‍🌈 He/Him 
